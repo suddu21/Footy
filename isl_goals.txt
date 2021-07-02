@@ -1,0 +1,2854 @@
+<div class="si-tBody"> 
+    
+     
+        <div class="si-tRow si-statHeadRow si-stats-row" style="" data-playerid="122442" data-teamid="496">
+            <div class="si-tCel si-rank">
+                <div class="si-rankRadius1"> <span>1</span> </div>
+            </div>
+            <div class="si-tCel">
+                   <a href="/players/forward-122442-igor-angulo-alboniga-profile" class="si-plyr-img si-imgHead si-imgH2" style="background-image: url(/static-resources/images/players/small/0/122442.png?v=4.11);"></a>
+            </div>
+            <div class="si-tCel si-stats-team si-clubInfo">
+                <div class="si-flexBox si-team-wrap">
+                    <div>
+                        <a href="/players/forward-122442-igor-angulo-alboniga-profile" data-url="/players/forward-122442-igor-angulo-alboniga-profile">
+                            <div class="si-awdPlyrName">
+                                <div class="si-fullName"> <span>Igor Angulo</span> </div>
+                                <div class="si-shortName"> <span>Igor Angulo</span> </div>
+                            </div>
+                        </a>
+                        <div class="si-awdPlyrStatus"> <span>Forward</span> </div>
+                        <a class="si-flexBox" href="/clubs/496-fc-goa-profile">
+                            <!--<div class="si-plyrClublogo" style="background-image: url(/static-resources/images/clubs/small/496.png?v&#x3D;4.11);"></div>-->
+                            <div class="si-plyrClublogo" style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11);"></div>
+                            <div class="si-plyrClubnm">
+                                <div class="si-fullName"> <span>FC Goa</span> </div>
+                                <div class="si-shortName"> <span>FCG</span> </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="si-tCel si-plyStats-gamePlyd-cel si-FntSize si-tCntr"> <span>21</span> </div>
+            <div class="si-tCel si-points si-FntSize si-tCntr"> <span>14</span> </div>
+        </div>   <div class="si-tRow si-stats-row" style="" data-playerid="13633">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>2</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-13633-roy-krishna-profile" data-url="/players/forward-13633-roy-krishna-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Roy Krishna</span> </div>
+                    <div class="si-shortName "> <span>Roy Krishna</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>ATK Mohun Bagan</span> </div>
+                    <div class="si-shortName "> <span>ATKMB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>23</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>14</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="128631">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>3</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-128631-diego-mauricio-machado-de-brito-profile" data-url="/players/forward-128631-diego-mauricio-machado-de-brito-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Diego Mauricio</span> </div>
+                    <div class="si-shortName "> <span>Diego Mauricio</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Odisha FC</span> </div>
+                    <div class="si-shortName "> <span>OFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>12</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="23451">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>4</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-23451-glenville-adam-james-le-fondre-profile" data-url="/players/forward-23451-glenville-adam-james-le-fondre-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Adam Le Fondre</span> </div>
+                    <div class="si-shortName "> <span>Adam Le Fondre</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>23</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>11</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55982">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>5</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-55982-aridane-jesus-santana-cabrera-profile" data-url="/players/forward-55982-aridane-jesus-santana-cabrera-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Aridane Santana</span> </div>
+                    <div class="si-shortName "> <span>Aridane Santana</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hyderabad FC</span> </div>
+                    <div class="si-shortName "> <span>HFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="9235">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>6</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-9235-nerijus-valskis-profile" data-url="/players/forward-9235-nerijus-valskis-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Nerijus Valskis</span> </div>
+                    <div class="si-shortName "> <span>Nerijus Valskis</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>8</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="19150">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>7</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-19150-sunil-chhetri-profile" data-url="/players/forward-19150-sunil-chhetri-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Sunil Chhetri</span> </div>
+                    <div class="si-shortName "> <span>Sunil Chhetri</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>8</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55652">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>8</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-55652-bartholomew-ogbeche-profile" data-url="/players/forward-55652-bartholomew-ogbeche-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bartholomew Ogbeche</span> </div>
+                    <div class="si-shortName "> <span>Bartholomew Ogbeche</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>23</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>8</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="30192">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>9</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-30192-cleiton-augusto-oliveira-silva-profile" data-url="/players/midfielder-30192-cleiton-augusto-oliveira-silva-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Cleiton Silva</span> </div>
+                    <div class="si-shortName "> <span>Cleiton Silva</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>7</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="112642">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>10</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-112642-jordan-murray-profile" data-url="/players/forward-112642-jordan-murray-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jordan Murray</span> </div>
+                    <div class="si-shortName "> <span>Jordan Murray</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>7</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="72761">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>11</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-72761-luis-miguel-vieira-babo-machado-profile" data-url="/players/forward-72761-luis-miguel-vieira-babo-machado-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Luis Machado</span> </div>
+                    <div class="si-shortName "> <span>Luis Machado</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>22</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>7</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="65412">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>12</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-65412-david-joel-williams-profile" data-url="/players/forward-65412-david-joel-williams-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>David Williams</span> </div>
+                    <div class="si-shortName "> <span>David Williams</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>ATK Mohun Bagan</span> </div>
+                    <div class="si-shortName "> <span>ATKMB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>6</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="17556">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>13</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-17556-jorge-ortiz-mendoza-profile" data-url="/players/midfielder-17556-jorge-ortiz-mendoza-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jorge Mendoza</span> </div>
+                    <div class="si-shortName "> <span>Jorge Mendoza</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>21</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>6</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="31843">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>14</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-31843-bipin-singh-thounajam-profile" data-url="/players/midfielder-31843-bipin-singh-thounajam-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bipin Singh</span> </div>
+                    <div class="si-shortName "> <span>Bipin Singh</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>22</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>6</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="32021">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>15</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-32021-manvir-singh-profile" data-url="/players/forward-32021-manvir-singh-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Manvir Singh</span> </div>
+                    <div class="si-shortName "> <span>Manvir Singh</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>ATK Mohun Bagan</span> </div>
+                    <div class="si-shortName "> <span>ATKMB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>23</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>6</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="681">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>16</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-681-gary-hooper-profile" data-url="/players/forward-681-gary-hooper-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Gary Hooper</span> </div>
+                    <div class="si-shortName "> <span>Gary Hooper</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>5</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="2475">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>17</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-2475-deshorn-dwayne-brown-profile" data-url="/players/forward-2475-deshorn-dwayne-brown-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Deshorn Brown</span> </div>
+                    <div class="si-shortName "> <span>Deshorn Brown</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>5</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="4822">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>18</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-4822-francisco-jose-sandaza-asensio-profile" data-url="/players/forward-4822-francisco-jose-sandaza-asensio-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Fran Sandaza</span> </div>
+                    <div class="si-shortName "> <span>Fran Sandaza</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hyderabad FC</span> </div>
+                    <div class="si-shortName "> <span>HFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>11</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="142365">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>18</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-142365-ishan-pandita-profile" data-url="/players/forward-142365-ishan-pandita-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Ishan Pandita</span> </div>
+                    <div class="si-shortName "> <span>Ishan Pandita</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>11</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55650">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>20</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-55650-federico-gallego-revetria-profile" data-url="/players/midfielder-55650-federico-gallego-revetria-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Federico Gallego</span> </div>
+                    <div class="si-shortName "> <span>Federico Gallego</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="9970">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>20</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-9970-esmael-ruti-tavares-cruz-da-silva-goncalves-profile" data-url="/players/forward-9970-esmael-ruti-tavares-cruz-da-silva-goncalves-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Esmael Goncalves</span> </div>
+                    <div class="si-shortName "> <span>Esmael Goncalves</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="48343">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>22</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-48343-ville-matti-steinmann-profile" data-url="/players/midfielder-48343-ville-matti-steinmann-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Matti Steinmann</span> </div>
+                    <div class="si-shortName "> <span>Matti Steinmann</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="10252">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>23</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-10252-halicharan-narzary-profile" data-url="/players/midfielder-10252-halicharan-narzary-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Halicharan Narzary</span> </div>
+                    <div class="si-shortName "> <span>Halicharan Narzary</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hyderabad FC</span> </div>
+                    <div class="si-shortName "> <span>HFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="25877">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>23</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-25877-lallianzuala-chhangte-profile" data-url="/players/midfielder-25877-lallianzuala-chhangte-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Lallianzuala Chhangte</span> </div>
+                    <div class="si-shortName "> <span>Lallianzuala Chhangte</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="36944">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>23</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-36944-stephen-eze-profile" data-url="/players/defender-36944-stephen-eze-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Stephen Eze</span> </div>
+                    <div class="si-shortName "> <span>Stephen Eze</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55658">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>26</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-55658-serigne-mourtada-fall-profile" data-url="/players/defender-55658-serigne-mourtada-fall-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mourtada Fall</span> </div>
+                    <div class="si-shortName "> <span>Mourtada Fall</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>22</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>4</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="631">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>27</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-631-kwesi-appiah-profile" data-url="/players/forward-631-kwesi-appiah-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kwesi Appiah</span> </div>
+                    <div class="si-shortName "> <span>Kwesi Appiah</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>8</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="23442">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>28</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-23442-bright-enobakhare-profile" data-url="/players/forward-23442-bright-enobakhare-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bright</span> </div>
+                    <div class="si-shortName "> <span>Bright</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>12</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="70078">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>28</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-70078-joel-joseph-chianese-profile" data-url="/players/forward-70078-joel-joseph-chianese-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Joel Chianese</span> </div>
+                    <div class="si-shortName "> <span>Joel Chianese</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hyderabad FC</span> </div>
+                    <div class="si-shortName "> <span>HFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>12</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="37266">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>30</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-37266-cole-alexander-profile" data-url="/players/midfielder-37266-cole-alexander-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Cole Alexander</span> </div>
+                    <div class="si-shortName "> <span>Cole Alexander</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Odisha FC</span> </div>
+                    <div class="si-shortName "> <span>OFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>15</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="39013">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>31</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-39013-hugo-adnan-boumous-profile" data-url="/players/midfielder-39013-hugo-adnan-boumous-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hugo Boumous</span> </div>
+                    <div class="si-shortName "> <span>Hugo Boumous</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="34007">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>32</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-34007-rahul-kannoly-praveen-profile" data-url="/players/forward-34007-rahul-kannoly-praveen-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Rahul KP</span> </div>
+                    <div class="si-shortName "> <span>Rahul KP</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="691">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>32</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-691-anthony-pilkington-profile" data-url="/players/midfielder-691-anthony-pilkington-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Anthony Pilkington</span> </div>
+                    <div class="si-shortName "> <span>Anthony Pilkington</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="9795">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>32</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-9795-joao-victor-de-albuquerque-bruno-profile" data-url="/players/midfielder-9795-joao-victor-de-albuquerque-bruno-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Joao Victor</span> </div>
+                    <div class="si-shortName "> <span>Joao Victor</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hyderabad FC</span> </div>
+                    <div class="si-shortName "> <span>HFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="5736">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>35</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-5736-idrissa-sylla-profile" data-url="/players/forward-5736-idrissa-sylla-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Idrissa Sylla</span> </div>
+                    <div class="si-shortName "> <span>Idrissa Sylla</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="35315">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>36</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-35315-suhair-vadakkepeedika-profile" data-url="/players/forward-35315-suhair-vadakkepeedika-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Suhair Vadakkepeedika</span> </div>
+                    <div class="si-shortName "> <span>Suhair Vadakkepeedika</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="23489">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>36</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-23489-jacques-maghoma-profile" data-url="/players/midfielder-23489-jacques-maghoma-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jacques Maghoma</span> </div>
+                    <div class="si-shortName "> <span>Jacques Maghoma</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>3</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="35210">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>38</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-35210-paul-ramfangzauva-profile" data-url="/players/midfielder-35210-paul-ramfangzauva-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Paul Ramfangzauva</span> </div>
+                    <div class="si-shortName "> <span>Paul Ramfangzauva</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Odisha FC</span> </div>
+                    <div class="si-shortName "> <span>OFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>5</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="69955">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>39</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-69955-francisco-david-grande-serrano-profile" data-url="/players/forward-69955-francisco-david-grande-serrano-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>David Grande</span> </div>
+                    <div class="si-shortName "> <span>David Grande</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>6</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="22165">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>40</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-22165-aaron-joshua-amadi-holloway-profile" data-url="/players/forward-22165-aaron-joshua-amadi-holloway-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Aaron Amadi-Holloway</span> </div>
+                    <div class="si-shortName "> <span>Aaron Amadi-Holloway</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>13</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="26751">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>41</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-26751-anirudh-thapa-profile" data-url="/players/midfielder-26751-anirudh-thapa-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Anirudh Thapa</span> </div>
+                    <div class="si-shortName "> <span>Anirudh Thapa</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>14</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="5196">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>41</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-5196-juan-antonio-gonzalez-fernandez-profile" data-url="/players/defender-5196-juan-antonio-gonzalez-fernandez-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Juanan</span> </div>
+                    <div class="si-shortName "> <span>Juanan</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>14</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="5648">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>43</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-5648-costa-nhamoinesu-profile" data-url="/players/defender-5648-costa-nhamoinesu-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Costa Nhamoinesu</span> </div>
+                    <div class="si-shortName "> <span>Costa Nhamoinesu</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="26718">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>43</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-26718-marcelo-leite-pereira-profile" data-url="/players/forward-26718-marcelo-leite-pereira-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Marcelo Pereira</span> </div>
+                    <div class="si-shortName "> <span>Marcelo Pereira</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>ATK Mohun Bagan</span> </div>
+                    <div class="si-shortName "> <span>ATKMB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="34011">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>43</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-34011-rahim-ali-profile" data-url="/players/forward-34011-rahim-ali-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Rahim Ali</span> </div>
+                    <div class="si-shortName "> <span>Rahim Ali</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="25878">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>46</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-25878-jerry-mawihmingthanga-profile" data-url="/players/midfielder-25878-jerry-mawihmingthanga-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jerry Mawihmingthanga</span> </div>
+                    <div class="si-shortName "> <span>Jerry Mawihmingthanga</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Odisha FC</span> </div>
+                    <div class="si-shortName "> <span>OFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="459">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>46</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-459-steven-vincent-taylor-profile" data-url="/players/defender-459-steven-vincent-taylor-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Steven Taylor</span> </div>
+                    <div class="si-shortName "> <span>Steven Taylor</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Odisha FC</span> </div>
+                    <div class="si-shortName "> <span>OFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="24196">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>48</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-24196-erik-endel-paartalu-profile" data-url="/players/midfielder-24196-erik-endel-paartalu-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Erik Paartalu</span> </div>
+                    <div class="si-shortName "> <span>Erik Paartalu</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="35062">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>49</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-35062-liston-colaco-profile" data-url="/players/forward-35062-liston-colaco-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Liston Colaco</span> </div>
+                    <div class="si-shortName "> <span>Liston Colaco</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hyderabad FC</span> </div>
+                    <div class="si-shortName "> <span>HFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="4863">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>49</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-4863-jose-vicente-gomez-umpierrez-profile" data-url="/players/midfielder-4863-jose-vicente-gomez-umpierrez-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Vicente Gomez</span> </div>
+                    <div class="si-shortName "> <span>Vicente Gomez</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="10916">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>49</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-10916-jakub-sylvestr-profile" data-url="/players/forward-10916-jakub-sylvestr-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jakub Sylvestr</span> </div>
+                    <div class="si-shortName "> <span>Jakub Sylvestr</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="20942">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>49</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-20942-ivan-garrido-gonzalez-profile" data-url="/players/defender-20942-ivan-garrido-gonzalez-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Ivan Gonzalez</span> </div>
+                    <div class="si-shortName "> <span>Ivan Gonzalez</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="21605">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>49</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-21605-peter-william-hartley-profile" data-url="/players/defender-21605-peter-william-hartley-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Peter Hartley</span> </div>
+                    <div class="si-shortName "> <span>Peter Hartley</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="144517">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>49</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-144517-hernan-daniel-santana-trujillo-profile" data-url="/players/midfielder-144517-hernan-daniel-santana-trujillo-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hernan Santana</span> </div>
+                    <div class="si-shortName "> <span>Hernan Santana</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="25876">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>55</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-25876-rowllin-borges-profile" data-url="/players/midfielder-25876-rowllin-borges-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Rowllin Borges</span> </div>
+                    <div class="si-shortName "> <span>Rowllin Borges</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="42171">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>56</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-42171-benjamin-lambot-profile" data-url="/players/defender-42171-benjamin-lambot-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Benjamin Lambot</span> </div>
+                    <div class="si-shortName "> <span>Benjamin Lambot</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>21</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>2</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="68811">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>57</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-68811-lalhrezuala-sailung-profile" data-url="/players/midfielder-68811-lalhrezuala-sailung-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>S Lalhrezuala</span> </div>
+                    <div class="si-shortName "> <span>S Lalhrezuala</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Odisha FC</span> </div>
+                    <div class="si-shortName "> <span>OFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>2</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="31882">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>58</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-31882-abdul-hakku-nediyodath-profile" data-url="/players/defender-31882-abdul-hakku-nediyodath-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Abdul Hakku</span> </div>
+                    <div class="si-shortName "> <span>Abdul Hakku</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>3</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="33962">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>58</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-33962-boris-singh-thangjam-profile" data-url="/players/midfielder-33962-boris-singh-thangjam-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Boris Singh</span> </div>
+                    <div class="si-shortName "> <span>Boris Singh</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>3</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="5213">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>58</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-5213-sergio-cidoncha-profile" data-url="/players/midfielder-5213-sergio-cidoncha-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Sergio Cidoncha</span> </div>
+                    <div class="si-shortName "> <span>Sergio Cidoncha</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>3</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="3587">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>61</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-3587-manuel-bruno-lanzarote-profile" data-url="/players/midfielder-3587-manuel-bruno-lanzarote-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Manuel Lanzarote</span> </div>
+                    <div class="si-shortName "> <span>Manuel Lanzarote</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>5</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55661">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>62</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-55661-imran-khan-profile" data-url="/players/midfielder-55661-imran-khan-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Imran Khan</span> </div>
+                    <div class="si-shortName "> <span>Imran Khan</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>6</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="16872">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>63</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-16872-rafael-schuler-crivellaro-profile" data-url="/players/midfielder-16872-rafael-schuler-crivellaro-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Rafael Crivellaro</span> </div>
+                    <div class="si-shortName "> <span>Rafael Crivellaro</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>7</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="10696">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>63</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-10696-jeje-lalpekhlua-profile" data-url="/players/forward-10696-jeje-lalpekhlua-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jeje Lalpekhlua</span> </div>
+                    <div class="si-shortName "> <span>Jeje Lalpekhlua</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>7</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="25505">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>65</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-25505-roland-alberg-profile" data-url="/players/midfielder-25505-roland-alberg-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Roland</span> </div>
+                    <div class="si-shortName "> <span>Roland</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1536-hyderabad-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Hyderabad FC</span> </div>
+                    <div class="si-shortName "> <span>HFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>8</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="35065">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>66</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-35065-sarthak-golui-profile" data-url="/players/defender-35065-sarthak-golui-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Sarthak Golui</span> </div>
+                    <div class="si-shortName "> <span>Sarthak Golui</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>9</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="69339">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>66</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-69339-leon-augustin-profile" data-url="/players/forward-69339-leon-augustin-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Leon Augustin</span> </div>
+                    <div class="si-shortName "> <span>Leon Augustin</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>9</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="35321">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>68</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-35321-lalthathanga-khawlhring-profile" data-url="/players/midfielder-35321-lalthathanga-khawlhring-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Lalthathanga Khawlhring</span> </div>
+                    <div class="si-shortName "> <span>Lalthathanga Khawlhring</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>10</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="10688">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>68</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-10688-redeem-tlang-profile" data-url="/players/midfielder-10688-redeem-tlang-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Redeem Tlang</span> </div>
+                    <div class="si-shortName "> <span>Redeem Tlang</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>10</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="20909">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>70</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-20909-eduardo-garcia-martin-profile" data-url="/players/midfielder-20909-eduardo-garcia-martin-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Edu Garcia</span> </div>
+                    <div class="si-shortName "> <span>Edu Garcia</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>ATK Mohun Bagan</span> </div>
+                    <div class="si-shortName "> <span>ATKMB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>11</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="38543">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>71</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-38543-rochharzela-profile" data-url="/players/midfielder-38543-rochharzela-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Rochharzela</span> </div>
+                    <div class="si-shortName "> <span>Rochharzela</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>12</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="21900">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>72</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-21900-bradden-inman-profile" data-url="/players/midfielder-21900-bradden-inman-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bradden Inman</span> </div>
+                    <div class="si-shortName "> <span>Bradden Inman</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1499-odisha-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Odisha FC</span> </div>
+                    <div class="si-shortName "> <span>OFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>13</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="5191">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>72</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-5191-dimas-delgado-morgado-profile" data-url="/players/midfielder-5191-dimas-delgado-morgado-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Dimas Delgado</span> </div>
+                    <div class="si-shortName "> <span>Dimas Delgado</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>13</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="142363">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>72</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-142363-devendra-murgaonkar-profile" data-url="/players/forward-142363-devendra-murgaonkar-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Devendra Murgaonkar</span> </div>
+                    <div class="si-shortName "> <span>Devendra Murgaonkar</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>13</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="34004">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>75</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-34004-aniket-anil-jadhav-profile" data-url="/players/forward-34004-aniket-anil-jadhav-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Aniket Jadhav</span> </div>
+                    <div class="si-shortName "> <span>Aniket Jadhav</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>14</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="10689">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>76</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-10689-seiminlen-doungel-profile" data-url="/players/midfielder-10689-seiminlen-doungel-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Seiminlen Doungel</span> </div>
+                    <div class="si-shortName "> <span>Seiminlen Doungel</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>15</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="21201">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>76</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-21201-rahul-shankar-bheke-profile" data-url="/players/defender-21201-rahul-shankar-bheke-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Rahul Bheke</span> </div>
+                    <div class="si-shortName "> <span>Rahul Bheke</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>15</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="69476">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>76</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-69476-glan-martins-profile" data-url="/players/midfielder-69476-glan-martins-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Glan Martins</span> </div>
+                    <div class="si-shortName "> <span>Glan Martins</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>15</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="144593">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>79</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-144593-scott-neville-profile" data-url="/players/defender-144593-scott-neville-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Scott Neville</span> </div>
+                    <div class="si-shortName "> <span>Scott Neville</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="144594">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>79</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-144594-daniel-fox-profile" data-url="/players/defender-144594-daniel-fox-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Daniel Fox</span> </div>
+                    <div class="si-shortName "> <span>Daniel Fox</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1102-sc-east-bengal-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>SC East Bengal</span> </div>
+                    <div class="si-shortName "> <span>SCEB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="14492">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>79</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-14492-fatkhullo-fatkhuloev-profile" data-url="/players/midfielder-14492-fatkhullo-fatkhuloev-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Fatkhullo Fatkhuloev</span> </div>
+                    <div class="si-shortName "> <span>Fatkhullo Fatkhuloev</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/505-chennaiyin-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Chennaiyin FC</span> </div>
+                    <div class="si-shortName "> <span>CFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="34002">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>79</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-34002-jeakson-singh-thaunaojam-profile" data-url="/players/midfielder-34002-jeakson-singh-thaunaojam-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jeakson Singh</span> </div>
+                    <div class="si-shortName "> <span>Jeakson Singh</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/498-kerala-blasters-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Kerala Blasters FC</span> </div>
+                    <div class="si-shortName "> <span>KBFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>16</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="40744">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>83</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-40744-francisco-javier-hernandez-gonzalez-profile" data-url="/players/midfielder-40744-francisco-javier-hernandez-gonzalez-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Javier Hernandez</span> </div>
+                    <div class="si-shortName "> <span>Javier Hernandez</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>ATK Mohun Bagan</span> </div>
+                    <div class="si-shortName "> <span>ATKMB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="26765">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>83</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/forward-26765-udanta-singh-kumam-profile" data-url="/players/forward-26765-udanta-singh-kumam-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Udanta Singh</span> </div>
+                    <div class="si-shortName "> <span>Udanta Singh</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>17</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="10710">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>85</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-10710-ashutosh-mehta-profile" data-url="/players/defender-10710-ashutosh-mehta-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Ashutosh Mehta</span> </div>
+                    <div class="si-shortName "> <span>Ashutosh Mehta</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="69519">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>85</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-69519-francisco-javier-gonzalez-munoz-profile" data-url="/players/defender-69519-francisco-javier-gonzalez-munoz-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Francisco Gonzalez</span> </div>
+                    <div class="si-shortName "> <span>Francisco Gonzalez</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>18</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55636">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>87</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-55636-mohammad-mobashir-rahman-profile" data-url="/players/midfielder-55636-mohammad-mobashir-rahman-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mohammad Mobashir</span> </div>
+                    <div class="si-shortName "> <span>Mohammad Mobashir</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1159-jamshedpur-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Jamshedpur FC</span> </div>
+                    <div class="si-shortName "> <span>JFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="78294">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>87</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-78294-cy-goddard-profile" data-url="/players/midfielder-78294-cy-goddard-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Cy Goddard</span> </div>
+                    <div class="si-shortName "> <span>Cy Goddard</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="33990">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>87</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-33990-suresh-singh-wangjam-profile" data-url="/players/midfielder-33990-suresh-singh-wangjam-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Suresh Wangjam</span> </div>
+                    <div class="si-shortName "> <span>Suresh Wangjam</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/656-bengaluru-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Bengaluru FC</span> </div>
+                    <div class="si-shortName "> <span>BFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>19</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="11386">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>90</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-11386-alberto-noguera-ripoll-profile" data-url="/players/midfielder-11386-alberto-noguera-ripoll-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Alberto Noguera</span> </div>
+                    <div class="si-shortName "> <span>Alberto Noguera</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>20</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="36322">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>91</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-36322-alexander-romario-jesuraj-profile" data-url="/players/midfielder-36322-alexander-romario-jesuraj-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Alexander Jesuraj</span> </div>
+                    <div class="si-shortName "> <span>Alexander Jesuraj</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>21</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55653">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>91</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-55653-saviour-gama-profile" data-url="/players/defender-55653-saviour-gama-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Saviour Gama</span> </div>
+                    <div class="si-shortName "> <span>Saviour Gama</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/496-fc-goa-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>FC Goa</span> </div>
+                    <div class="si-shortName "> <span>FCG</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>21</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="55670">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>93</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-55670-vignesh-dakshinamurthy-profile" data-url="/players/midfielder-55670-vignesh-dakshinamurthy-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Vignesh Dakshinamurthy</span> </div>
+                    <div class="si-shortName "> <span>Vignesh Dakshinamurthy</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/506-mumbai-city-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Mumbai City FC</span> </div>
+                    <div class="si-shortName "> <span>MCFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>22</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="33997">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>93</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/midfielder-33997-lalengmawia-profile" data-url="/players/midfielder-33997-lalengmawia-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Lalengmawia</span> </div>
+                    <div class="si-shortName "> <span>Lalengmawia</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/504-northeast-united-fc-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>NorthEast United FC</span> </div>
+                    <div class="si-shortName "> <span>NEUFC</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>22</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  <div class="si-tRow si-stats-row" style="" data-playerid="10712">
+    <div class="si-tCel si-rank ">
+        <div class="si-rankRadius "><span>93</span></div>
+    </div>
+    <div class="si-tCel si-stats-team si-stats-teamName ">
+        <div class="si-team-wrap ">
+            <a href="/players/defender-10712-pritam-kotal-profile" data-url="/players/defender-10712-pritam-kotal-profile">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>Pritam Kotal</span> </div>
+                    <div class="si-shortName "> <span>Pritam Kotal</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-stats-team ">
+        <div class="si-flexBox si-team-wrap ">
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+            </a>
+            <a href="/clubs/1874-atk-mohun-bagan-profile ">
+                <div class="si-plyr-name ">
+                    <div class="si-fullName "> <span>ATK Mohun Bagan</span> </div>
+                    <div class="si-shortName "> <span>ATKMB</span> </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="si-tCel si-gamplyd "> <span>22</span> </div>
+    <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>1</span> </div>
+  </div>
+  </div>
