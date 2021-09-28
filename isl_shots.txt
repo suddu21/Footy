@@ -6,7 +6,7 @@
                 <div class="si-rankRadius1"> <span>1</span> </div>
             </div>
             <div class="si-tCel">
-                   <a href="/players/midfielder-17556-jorge-ortiz-mendoza-profile" class="si-plyr-img si-imgHead si-imgH2" style="background-image: url(/static-resources/images/players/small/0/17556.png?v=4.11);"></a>
+                   <a href="/players/midfielder-17556-jorge-ortiz-mendoza-profile" class="si-plyr-img si-imgHead si-imgH2" style="background-image: url(/static-resources/images/players/small/0/17556.png?v=3.31);"></a>
             </div>
             <div class="si-tCel si-stats-team si-clubInfo">
                 <div class="si-flexBox si-team-wrap">
@@ -19,8 +19,8 @@
                         </a>
                         <div class="si-awdPlyrStatus"> <span>Midfielder</span> </div>
                         <a class="si-flexBox" href="/clubs/496-fc-goa-profile">
-                            <!--<div class="si-plyrClublogo" style="background-image: url(/static-resources/images/clubs/small/496.png?v&#x3D;4.11);"></div>-->
-                            <div class="si-plyrClublogo" style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11);"></div>
+                            <!--<div class="si-plyrClublogo" style="background-image: url(/static-resources/images/clubs/small/496.png?v&#x3D;3.31);"></div>-->
+                            <div class="si-plyrClublogo" style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31);"></div>
                             <div class="si-plyrClubnm">
                                 <div class="si-fullName"> <span>FC Goa</span> </div>
                                 <div class="si-shortName"> <span>FCG</span> </div>
@@ -48,7 +48,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -78,7 +78,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -108,7 +108,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -138,7 +138,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -168,7 +168,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -198,7 +198,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -228,7 +228,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -258,7 +258,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -288,7 +288,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -318,7 +318,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -348,7 +348,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -378,7 +378,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -408,7 +408,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -438,7 +438,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -468,7 +468,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -498,7 +498,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -528,7 +528,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -558,7 +558,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -588,7 +588,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -601,7 +601,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>34</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="10916">
+  <div class="si-tRow si-stats-row" style="" data-playerid="10916">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>21</span></div>
     </div>
@@ -618,7 +618,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -631,7 +631,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>33</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="40744">
+  <div class="si-tRow si-stats-row" style="" data-playerid="40744">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>22</span></div>
     </div>
@@ -648,7 +648,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -661,7 +661,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>32</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="18821">
+  <div class="si-tRow si-stats-row" style="" data-playerid="18821">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>23</span></div>
     </div>
@@ -678,7 +678,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -691,7 +691,7 @@
     <div class="si-tCel si-gamplyd "> <span>20</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>32</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="26718">
+  <div class="si-tRow si-stats-row" style="" data-playerid="26718">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>24</span></div>
     </div>
@@ -708,7 +708,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -721,7 +721,7 @@
     <div class="si-tCel si-gamplyd "> <span>16</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>31</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="5736">
+  <div class="si-tRow si-stats-row" style="" data-playerid="5736">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>25</span></div>
     </div>
@@ -738,7 +738,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -751,7 +751,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>31</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="34007">
+  <div class="si-tRow si-stats-row" style="" data-playerid="34007">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>26</span></div>
     </div>
@@ -768,7 +768,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -781,7 +781,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>30</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="2475">
+  <div class="si-tRow si-stats-row" style="" data-playerid="2475">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>27</span></div>
     </div>
@@ -798,7 +798,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -811,7 +811,7 @@
     <div class="si-tCel si-gamplyd "> <span>20</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>30</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="36603">
+  <div class="si-tRow si-stats-row" style="" data-playerid="36603">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>28</span></div>
     </div>
@@ -828,7 +828,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -841,7 +841,7 @@
     <div class="si-tCel si-gamplyd "> <span>14</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>29</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="39013">
+  <div class="si-tRow si-stats-row" style="" data-playerid="39013">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>29</span></div>
     </div>
@@ -858,7 +858,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -871,7 +871,7 @@
     <div class="si-tCel si-gamplyd "> <span>16</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>29</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="36944">
+  <div class="si-tRow si-stats-row" style="" data-playerid="36944">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>30</span></div>
     </div>
@@ -888,7 +888,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -901,7 +901,7 @@
     <div class="si-tCel si-gamplyd "> <span>20</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>28</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="31843">
+  <div class="si-tRow si-stats-row" style="" data-playerid="31843">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>31</span></div>
     </div>
@@ -918,7 +918,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -931,7 +931,7 @@
     <div class="si-tCel si-gamplyd "> <span>22</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>28</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="681">
+  <div class="si-tRow si-stats-row" style="" data-playerid="681">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>32</span></div>
     </div>
@@ -948,7 +948,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -961,7 +961,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>25</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="32054">
+  <div class="si-tRow si-stats-row" style="" data-playerid="32054">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>33</span></div>
     </div>
@@ -978,7 +978,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -991,7 +991,7 @@
     <div class="si-tCel si-gamplyd "> <span>20</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>25</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="24196">
+  <div class="si-tRow si-stats-row" style="" data-playerid="24196">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>34</span></div>
     </div>
@@ -1008,7 +1008,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1021,7 +1021,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>24</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="35315">
+  <div class="si-tRow si-stats-row" style="" data-playerid="35315">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>35</span></div>
     </div>
@@ -1038,7 +1038,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1051,7 +1051,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>24</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="11386">
+  <div class="si-tRow si-stats-row" style="" data-playerid="11386">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>36</span></div>
     </div>
@@ -1068,7 +1068,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -1081,7 +1081,7 @@
     <div class="si-tCel si-gamplyd "> <span>20</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>23</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="55658">
+  <div class="si-tRow si-stats-row" style="" data-playerid="55658">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>37</span></div>
     </div>
@@ -1098,7 +1098,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1111,7 +1111,7 @@
     <div class="si-tCel si-gamplyd "> <span>22</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>23</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="67351">
+  <div class="si-tRow si-stats-row" style="" data-playerid="67351">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>38</span></div>
     </div>
@@ -1128,7 +1128,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1141,7 +1141,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>22</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="31851">
+  <div class="si-tRow si-stats-row" style="" data-playerid="31851">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>38</span></div>
     </div>
@@ -1158,7 +1158,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1171,7 +1171,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>22</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="26762">
+  <div class="si-tRow si-stats-row" style="" data-playerid="26762">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>40</span></div>
     </div>
@@ -1188,7 +1188,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1201,7 +1201,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>22</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="9970">
+  <div class="si-tRow si-stats-row" style="" data-playerid="9970">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>41</span></div>
     </div>
@@ -1218,7 +1218,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1231,7 +1231,7 @@
     <div class="si-tCel si-gamplyd "> <span>16</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>21</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="25878">
+  <div class="si-tRow si-stats-row" style="" data-playerid="25878">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>42</span></div>
     </div>
@@ -1248,7 +1248,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1261,7 +1261,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>21</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="26753">
+  <div class="si-tRow si-stats-row" style="" data-playerid="26753">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>43</span></div>
     </div>
@@ -1278,7 +1278,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1291,7 +1291,7 @@
     <div class="si-tCel si-gamplyd "> <span>14</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>20</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="112640">
+  <div class="si-tRow si-stats-row" style="" data-playerid="112640">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>44</span></div>
     </div>
@@ -1308,7 +1308,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1321,7 +1321,7 @@
     <div class="si-tCel si-gamplyd "> <span>15</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>20</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="55636">
+  <div class="si-tRow si-stats-row" style="" data-playerid="55636">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>45</span></div>
     </div>
@@ -1338,7 +1338,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1351,7 +1351,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>20</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="21611">
+  <div class="si-tRow si-stats-row" style="" data-playerid="21611">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>46</span></div>
     </div>
@@ -1368,7 +1368,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -1381,7 +1381,7 @@
     <div class="si-tCel si-gamplyd "> <span>21</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>20</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="16872">
+  <div class="si-tRow si-stats-row" style="" data-playerid="16872">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>47</span></div>
     </div>
@@ -1398,7 +1398,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1411,7 +1411,7 @@
     <div class="si-tCel si-gamplyd "> <span>7</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>19</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="23885">
+  <div class="si-tRow si-stats-row" style="" data-playerid="23885">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>48</span></div>
     </div>
@@ -1428,7 +1428,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1441,7 +1441,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>18</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="33990">
+  <div class="si-tRow si-stats-row" style="" data-playerid="33990">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>49</span></div>
     </div>
@@ -1458,7 +1458,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1471,7 +1471,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>18</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="26630">
+  <div class="si-tRow si-stats-row" style="" data-playerid="26630">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>50</span></div>
     </div>
@@ -1488,7 +1488,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1501,7 +1501,7 @@
     <div class="si-tCel si-gamplyd "> <span>12</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>17</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="23489">
+  <div class="si-tRow si-stats-row" style="" data-playerid="23489">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>51</span></div>
     </div>
@@ -1518,7 +1518,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -1531,7 +1531,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>17</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="61410">
+  <div class="si-tRow si-stats-row" style="" data-playerid="61410">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>51</span></div>
     </div>
@@ -1548,7 +1548,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1561,7 +1561,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>17</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="55653">
+  <div class="si-tRow si-stats-row" style="" data-playerid="55653">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>53</span></div>
     </div>
@@ -1578,7 +1578,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -1591,7 +1591,7 @@
     <div class="si-tCel si-gamplyd "> <span>21</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>17</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="23442">
+  <div class="si-tRow si-stats-row" style="" data-playerid="23442">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>54</span></div>
     </div>
@@ -1608,7 +1608,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -1621,7 +1621,7 @@
     <div class="si-tCel si-gamplyd "> <span>12</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>16</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="26751">
+  <div class="si-tRow si-stats-row" style="" data-playerid="26751">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>55</span></div>
     </div>
@@ -1638,7 +1638,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1651,7 +1651,7 @@
     <div class="si-tCel si-gamplyd "> <span>14</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>16</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="10689">
+  <div class="si-tRow si-stats-row" style="" data-playerid="10689">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>56</span></div>
     </div>
@@ -1668,7 +1668,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1681,7 +1681,7 @@
     <div class="si-tCel si-gamplyd "> <span>15</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>16</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="34011">
+  <div class="si-tRow si-stats-row" style="" data-playerid="34011">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>57</span></div>
     </div>
@@ -1698,7 +1698,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1711,7 +1711,7 @@
     <div class="si-tCel si-gamplyd "> <span>16</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>16</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="21605">
+  <div class="si-tRow si-stats-row" style="" data-playerid="21605">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>58</span></div>
     </div>
@@ -1728,7 +1728,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1741,7 +1741,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>16</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="25876">
+  <div class="si-tRow si-stats-row" style="" data-playerid="25876">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>59</span></div>
     </div>
@@ -1758,7 +1758,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1771,7 +1771,7 @@
     <div class="si-tCel si-gamplyd "> <span>20</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>16</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="20909">
+  <div class="si-tRow si-stats-row" style="" data-playerid="20909">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>60</span></div>
     </div>
@@ -1788,7 +1788,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -1801,7 +1801,7 @@
     <div class="si-tCel si-gamplyd "> <span>11</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>15</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="70078">
+  <div class="si-tRow si-stats-row" style="" data-playerid="70078">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>61</span></div>
     </div>
@@ -1818,7 +1818,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1831,7 +1831,7 @@
     <div class="si-tCel si-gamplyd "> <span>12</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>15</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="5648">
+  <div class="si-tRow si-stats-row" style="" data-playerid="5648">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>62</span></div>
     </div>
@@ -1848,7 +1848,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1861,7 +1861,7 @@
     <div class="si-tCel si-gamplyd "> <span>16</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>15</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="9795">
+  <div class="si-tRow si-stats-row" style="" data-playerid="9795">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>63</span></div>
     </div>
@@ -1878,7 +1878,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1891,7 +1891,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>15</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="48343">
+  <div class="si-tRow si-stats-row" style="" data-playerid="48343">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>63</span></div>
     </div>
@@ -1908,7 +1908,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -1921,7 +1921,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>15</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="19141">
+  <div class="si-tRow si-stats-row" style="" data-playerid="19141">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>65</span></div>
     </div>
@@ -1938,7 +1938,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -1951,7 +1951,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>15</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="36322">
+  <div class="si-tRow si-stats-row" style="" data-playerid="36322">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>66</span></div>
     </div>
@@ -1968,7 +1968,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -1981,7 +1981,7 @@
     <div class="si-tCel si-gamplyd "> <span>21</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>15</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="35321">
+  <div class="si-tRow si-stats-row" style="" data-playerid="35321">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>67</span></div>
     </div>
@@ -1998,7 +1998,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2011,7 +2011,7 @@
     <div class="si-tCel si-gamplyd "> <span>10</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>14</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="19129">
+  <div class="si-tRow si-stats-row" style="" data-playerid="19129">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>68</span></div>
     </div>
@@ -2028,7 +2028,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2041,7 +2041,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>14</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="4782">
+  <div class="si-tRow si-stats-row" style="" data-playerid="4782">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>69</span></div>
     </div>
@@ -2058,7 +2058,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2071,7 +2071,7 @@
     <div class="si-tCel si-gamplyd "> <span>8</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="631">
+  <div class="si-tRow si-stats-row" style="" data-playerid="631">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>69</span></div>
     </div>
@@ -2088,7 +2088,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2101,7 +2101,7 @@
     <div class="si-tCel si-gamplyd "> <span>8</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="33676">
+  <div class="si-tRow si-stats-row" style="" data-playerid="33676">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>71</span></div>
     </div>
@@ -2118,7 +2118,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2131,7 +2131,7 @@
     <div class="si-tCel si-gamplyd "> <span>11</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="14492">
+  <div class="si-tRow si-stats-row" style="" data-playerid="14492">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>72</span></div>
     </div>
@@ -2148,7 +2148,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2161,7 +2161,7 @@
     <div class="si-tCel si-gamplyd "> <span>16</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="26765">
+  <div class="si-tRow si-stats-row" style="" data-playerid="26765">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>73</span></div>
     </div>
@@ -2178,7 +2178,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2191,7 +2191,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="58418">
+  <div class="si-tRow si-stats-row" style="" data-playerid="58418">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>74</span></div>
     </div>
@@ -2208,7 +2208,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2221,7 +2221,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="10708">
+  <div class="si-tRow si-stats-row" style="" data-playerid="10708">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>75</span></div>
     </div>
@@ -2238,7 +2238,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -2251,7 +2251,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="42171">
+  <div class="si-tRow si-stats-row" style="" data-playerid="42171">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>76</span></div>
     </div>
@@ -2268,7 +2268,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2281,7 +2281,7 @@
     <div class="si-tCel si-gamplyd "> <span>21</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>13</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="10648">
+  <div class="si-tRow si-stats-row" style="" data-playerid="10648">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>77</span></div>
     </div>
@@ -2298,7 +2298,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -2311,7 +2311,7 @@
     <div class="si-tCel si-gamplyd "> <span>15</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>12</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="144517">
+  <div class="si-tRow si-stats-row" style="" data-playerid="144517">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>78</span></div>
     </div>
@@ -2328,7 +2328,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2341,7 +2341,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>12</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="10624">
+  <div class="si-tRow si-stats-row" style="" data-playerid="10624">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>79</span></div>
     </div>
@@ -2358,7 +2358,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -2371,7 +2371,7 @@
     <div class="si-tCel si-gamplyd "> <span>20</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>12</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="9099">
+  <div class="si-tRow si-stats-row" style="" data-playerid="9099">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>80</span></div>
     </div>
@@ -2388,7 +2388,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2401,7 +2401,7 @@
     <div class="si-tCel si-gamplyd "> <span>21</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>12</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="35264">
+  <div class="si-tRow si-stats-row" style="" data-playerid="35264">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>80</span></div>
     </div>
@@ -2418,7 +2418,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2431,7 +2431,7 @@
     <div class="si-tCel si-gamplyd "> <span>21</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>12</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="33997">
+  <div class="si-tRow si-stats-row" style="" data-playerid="33997">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>82</span></div>
     </div>
@@ -2448,7 +2448,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2461,7 +2461,7 @@
     <div class="si-tCel si-gamplyd "> <span>22</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>12</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="4822">
+  <div class="si-tRow si-stats-row" style="" data-playerid="4822">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>83</span></div>
     </div>
@@ -2478,7 +2478,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2491,7 +2491,7 @@
     <div class="si-tCel si-gamplyd "> <span>11</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>11</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="9814">
+  <div class="si-tRow si-stats-row" style="" data-playerid="9814">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>84</span></div>
     </div>
@@ -2508,7 +2508,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2521,7 +2521,7 @@
     <div class="si-tCel si-gamplyd "> <span>12</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>11</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="19152">
+  <div class="si-tRow si-stats-row" style="" data-playerid="19152">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>84</span></div>
     </div>
@@ -2538,7 +2538,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -2551,7 +2551,7 @@
     <div class="si-tCel si-gamplyd "> <span>12</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>11</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="5196">
+  <div class="si-tRow si-stats-row" style="" data-playerid="5196">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>86</span></div>
     </div>
@@ -2568,7 +2568,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2581,7 +2581,7 @@
     <div class="si-tCel si-gamplyd "> <span>14</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>11</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="36318">
+  <div class="si-tRow si-stats-row" style="" data-playerid="36318">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>86</span></div>
     </div>
@@ -2598,7 +2598,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2611,7 +2611,7 @@
     <div class="si-tCel si-gamplyd "> <span>14</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>11</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="26710">
+  <div class="si-tRow si-stats-row" style="" data-playerid="26710">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>88</span></div>
     </div>
@@ -2628,7 +2628,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2641,7 +2641,7 @@
     <div class="si-tCel si-gamplyd "> <span>19</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>11</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="3587">
+  <div class="si-tRow si-stats-row" style="" data-playerid="3587">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>89</span></div>
     </div>
@@ -2658,7 +2658,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2671,7 +2671,7 @@
     <div class="si-tCel si-gamplyd "> <span>5</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="31876">
+  <div class="si-tRow si-stats-row" style="" data-playerid="31876">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>90</span></div>
     </div>
@@ -2688,7 +2688,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2701,7 +2701,7 @@
     <div class="si-tCel si-gamplyd "> <span>8</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="142365">
+  <div class="si-tRow si-stats-row" style="" data-playerid="142365">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>91</span></div>
     </div>
@@ -2718,7 +2718,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -2731,7 +2731,7 @@
     <div class="si-tCel si-gamplyd "> <span>11</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="21900">
+  <div class="si-tRow si-stats-row" style="" data-playerid="21900">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>92</span></div>
     </div>
@@ -2748,7 +2748,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2761,7 +2761,7 @@
     <div class="si-tCel si-gamplyd "> <span>13</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="37266">
+  <div class="si-tRow si-stats-row" style="" data-playerid="37266">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>93</span></div>
     </div>
@@ -2778,7 +2778,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2791,7 +2791,7 @@
     <div class="si-tCel si-gamplyd "> <span>15</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="69476">
+  <div class="si-tRow si-stats-row" style="" data-playerid="69476">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>93</span></div>
     </div>
@@ -2808,7 +2808,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -2821,7 +2821,7 @@
     <div class="si-tCel si-gamplyd "> <span>15</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="36329">
+  <div class="si-tRow si-stats-row" style="" data-playerid="36329">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>95</span></div>
     </div>
@@ -2838,7 +2838,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2851,7 +2851,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>10</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="10688">
+  <div class="si-tRow si-stats-row" style="" data-playerid="10688">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>96</span></div>
     </div>
@@ -2868,7 +2868,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -2881,7 +2881,7 @@
     <div class="si-tCel si-gamplyd "> <span>10</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>9</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="5191">
+  <div class="si-tRow si-stats-row" style="" data-playerid="5191">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>97</span></div>
     </div>
@@ -2898,7 +2898,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2911,7 +2911,7 @@
     <div class="si-tCel si-gamplyd "> <span>13</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>9</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="459">
+  <div class="si-tRow si-stats-row" style="" data-playerid="459">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>98</span></div>
     </div>
@@ -2928,7 +2928,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2941,7 +2941,7 @@
     <div class="si-tCel si-gamplyd "> <span>17</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>9</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="3988">
+  <div class="si-tRow si-stats-row" style="" data-playerid="3988">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>99</span></div>
     </div>
@@ -2958,7 +2958,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -2971,7 +2971,7 @@
     <div class="si-tCel si-gamplyd "> <span>18</span> </div>
     <div class="si-tCel si-gamplyd si-plyStats-gamplyd"> <span>9</span> </div>
   </div>
-  <div class="si-tRow si-stats-row" style="display:none;" data-playerid="10710">
+  <div class="si-tRow si-stats-row" style="" data-playerid="10710">
     <div class="si-tCel si-rank ">
         <div class="si-rankRadius "><span>99</span></div>
     </div>
@@ -2988,7 +2988,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3018,7 +3018,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -3048,7 +3048,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3078,7 +3078,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3108,7 +3108,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3138,7 +3138,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3168,7 +3168,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3198,7 +3198,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -3228,7 +3228,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3258,7 +3258,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3288,7 +3288,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -3318,7 +3318,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3348,7 +3348,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -3378,7 +3378,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3408,7 +3408,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3438,7 +3438,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -3468,7 +3468,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3498,7 +3498,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3528,7 +3528,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3558,7 +3558,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -3588,7 +3588,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -3618,7 +3618,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -3648,7 +3648,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -3678,7 +3678,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3708,7 +3708,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3738,7 +3738,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3768,7 +3768,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3798,7 +3798,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -3828,7 +3828,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3858,7 +3858,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -3888,7 +3888,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3918,7 +3918,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -3948,7 +3948,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -3978,7 +3978,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4008,7 +4008,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -4038,7 +4038,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -4068,7 +4068,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4098,7 +4098,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4128,7 +4128,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4158,7 +4158,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -4188,7 +4188,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4218,7 +4218,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4248,7 +4248,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4278,7 +4278,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4308,7 +4308,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4338,7 +4338,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4368,7 +4368,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4398,7 +4398,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4428,7 +4428,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -4458,7 +4458,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4488,7 +4488,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -4518,7 +4518,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4548,7 +4548,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -4578,7 +4578,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4608,7 +4608,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4638,7 +4638,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4668,7 +4668,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4698,7 +4698,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4728,7 +4728,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4758,7 +4758,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4788,7 +4788,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4818,7 +4818,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -4848,7 +4848,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4878,7 +4878,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -4908,7 +4908,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -4938,7 +4938,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4968,7 +4968,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -4998,7 +4998,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5028,7 +5028,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5058,7 +5058,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -5088,7 +5088,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5118,7 +5118,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5148,7 +5148,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5178,7 +5178,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5208,7 +5208,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5238,7 +5238,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/506-mumbai-city-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/506.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/506-mumbai-city-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5268,7 +5268,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5298,7 +5298,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5328,7 +5328,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5358,7 +5358,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5388,7 +5388,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5418,7 +5418,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -5448,7 +5448,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5478,7 +5478,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5508,7 +5508,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5538,7 +5538,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5568,7 +5568,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5598,7 +5598,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -5628,7 +5628,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5658,7 +5658,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5688,7 +5688,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5718,7 +5718,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -5748,7 +5748,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -5778,7 +5778,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5808,7 +5808,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5838,7 +5838,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5868,7 +5868,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5898,7 +5898,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -5928,7 +5928,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5958,7 +5958,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -5988,7 +5988,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6018,7 +6018,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6048,7 +6048,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1874.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1874-atk-mohun-bagan-profile ">
                 <div class="si-plyr-name ">
@@ -6078,7 +6078,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6108,7 +6108,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6138,7 +6138,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6168,7 +6168,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -6198,7 +6198,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6228,7 +6228,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6258,7 +6258,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1499-odisha-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1499.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1499-odisha-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6288,7 +6288,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1102-sc-east-bengal-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1102.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1102-sc-east-bengal-profile ">
                 <div class="si-plyr-name ">
@@ -6318,7 +6318,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -6348,7 +6348,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/656-bengaluru-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/656.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/656-bengaluru-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6378,7 +6378,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6408,7 +6408,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/496-fc-goa-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/496.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/496-fc-goa-profile ">
                 <div class="si-plyr-name ">
@@ -6438,7 +6438,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/505-chennaiyin-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/505.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/505-chennaiyin-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6468,7 +6468,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1159-jamshedpur-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1159.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1159-jamshedpur-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6498,7 +6498,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/504-northeast-united-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/504.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/504-northeast-united-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6528,7 +6528,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/498-kerala-blasters-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/498.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/498-kerala-blasters-fc-profile ">
                 <div class="si-plyr-name ">
@@ -6558,7 +6558,7 @@
     <div class="si-tCel si-stats-team ">
         <div class="si-flexBox si-team-wrap ">
             <a href="/clubs/1536-hyderabad-fc-profile ">
-                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=4.11); "> </div>
+                <div class="si-team-img si-hiddn " style="background-image: url(/static-resources/images/clubs/small/1536.png?v=3.31); "> </div>
             </a>
             <a href="/clubs/1536-hyderabad-fc-profile ">
                 <div class="si-plyr-name ">
